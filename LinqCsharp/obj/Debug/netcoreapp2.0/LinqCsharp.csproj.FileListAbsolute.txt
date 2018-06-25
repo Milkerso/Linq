@@ -1,0 +1,11 @@
+C:\Users\Dawid\source\Repozy\LinqCsharp\bin\Debug\netcoreapp2.0\LinqCsharp.deps.json
+C:\Users\Dawid\source\Repozy\LinqCsharp\bin\Debug\netcoreapp2.0\LinqCsharp.runtimeconfig.json
+C:\Users\Dawid\source\Repozy\LinqCsharp\bin\Debug\netcoreapp2.0\LinqCsharp.runtimeconfig.dev.json
+C:\Users\Dawid\source\Repozy\LinqCsharp\bin\Debug\netcoreapp2.0\LinqCsharp.dll
+C:\Users\Dawid\source\Repozy\LinqCsharp\bin\Debug\netcoreapp2.0\LinqCsharp.pdb
+C:\Users\Dawid\source\Repozy\LinqCsharp\obj\Debug\netcoreapp2.0\LinqCsharp.csprojAssemblyReference.cache
+C:\Users\Dawid\source\Repozy\LinqCsharp\obj\Debug\netcoreapp2.0\LinqCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\Repozy\LinqCsharp\obj\Debug\netcoreapp2.0\LinqCsharp.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\Repozy\LinqCsharp\obj\Debug\netcoreapp2.0\LinqCsharp.AssemblyInfo.cs
+C:\Users\Dawid\source\Repozy\LinqCsharp\obj\Debug\netcoreapp2.0\LinqCsharp.dll
+C:\Users\Dawid\source\Repozy\LinqCsharp\obj\Debug\netcoreapp2.0\LinqCsharp.pdb
