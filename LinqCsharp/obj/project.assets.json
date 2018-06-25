@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dawid\\source\\Repozy\\LinqCsharp\\LinqCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\Dawid\\Desktop\\Linq\\Repozy\\LinqCsharp\\LinqCsharp.csproj",
       "projectName": "LinqCsharp",
-      "projectPath": "C:\\Users\\Dawid\\source\\Repozy\\LinqCsharp\\LinqCsharp.csproj",
+      "projectPath": "C:\\Users\\Dawid\\Desktop\\Linq\\Repozy\\LinqCsharp\\LinqCsharp.csproj",
       "packagesPath": "C:\\Users\\Dawid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dawid\\source\\Repozy\\LinqCsharp\\obj\\",
+      "outputPath": "C:\\Users\\Dawid\\Desktop\\Linq\\Repozy\\LinqCsharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

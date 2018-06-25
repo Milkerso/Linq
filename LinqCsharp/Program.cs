@@ -25,7 +25,7 @@ namespace LinqCsharp
                 Console.WriteLine("2 Wyswietl ksiazke szukajac po autorze");
                 Console.WriteLine("3 Wyswietl ksiazke szukajac po tytule");
                 Console.WriteLine("4 Wyswietl ksiazke szukajac po latach podaj przedzial");
-                Console.WriteLine("3 Wyswietl ksiazke szukajac po tytule i autorze");
+                Console.WriteLine("5 Wyswietl ksiazke szukajac po tytule i autorze");
                 String choice = Console.ReadLine();
                 int choiceInt = Int32.Parse(choice);
 
